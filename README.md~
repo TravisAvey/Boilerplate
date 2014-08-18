@@ -1,0 +1,9 @@
+Boilerplate.
+
+Need todo:
+	npm install grunt --save-dev
+	npm install grunt-contrib-watch
+	npm install grunt-contrib-concat
+	npm install grunt-contrib-sass
+	npm install grunt-contrib-uglify
+	npm install grunt-contrib-imagemin

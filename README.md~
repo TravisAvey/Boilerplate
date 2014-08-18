@@ -7,7 +7,7 @@ Grunt needs to be installed. Along with all dependecies listed in the pakage.jso
 Run these commands from the directory:
 
 	npm install grunt --save-dev
-	----------------------------
+	____________________________
 	npm install grunt-contrib-watch
 	-------------------------------
 	npm install grunt-contrib-concat
